@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 68daaa85c5d104a46b5e6dd7fedb6641
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pAnimator: {instanceID: 0}
+  - HPBar: {instanceID: 0}
+  - pRig2D: {instanceID: 0}
+  - slash: {instanceID: 0}
+  - shadow1: {instanceID: 0}
+  - hit_lazer: {instanceID: 0}
+  - jDust: {instanceID: 0}
+  - wallChk: {instanceID: 0}
+  - walldust: {instanceID: 0}
+  - monsterPrefab: {fileID: 4893418312574057619, guid: 95f10ef8c2fb20b47b41a32443b7f279,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
